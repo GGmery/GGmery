@@ -1,7 +1,7 @@
 # 🌌✨ Hola, soy Mery | Creative Developer
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=7b2cbf&height=200&section=header&text=Mery%20en%20el%20Código%20🔮&fontSize=70&animation=fadeIn" />
+  <img src="https://i.pinimg.com/originals/20/98/22/20982203dc928f8fad300cdeeb4d20b1.gif" alt="Magia Digital" width="450" style="border-radius: 20px; box-shadow: 0 4px 15px rgba(123, 44, 191, 0.7);" />
 </p>
 
 ---
