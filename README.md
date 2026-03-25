@@ -24,8 +24,6 @@ Aquí puedes ver mis últimos experimentos visuales y mecánicas de juego:
   </a>
 </p>
 
-> 💡 **Tip:** Puedes insertar aquí un GIF de tu mejor videojuego o un vídeo de tu portafolio de arte.
-
 ---
 
 ### 🔮 Mis Herramientas de Poder (Stack)
